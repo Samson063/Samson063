@@ -6,7 +6,7 @@ I enjoy developing for Android 🤖 and IOS , and I think my favorite thing t
 
 Thanks for checking out my profile.
 
-You can connect with me on [Twitter](https://twitter.com/anth_samson), [Instagram](https://www.instagram.com/astro_codr/), or even [LinkedIn](https://www.linkedin.com/in/alomedaniel/).
+You can connect with me on [Twitter](https://twitter.com/anth_samson), [Instagram](https://www.instagram.com/Iam_anthonysamson/), or even [LinkedIn](https://www.linkedin.com/in/anthony-samson-ba2a74227/).
 
 ---
 
