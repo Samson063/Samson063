@@ -1,8 +1,8 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-My name is Anthony Samson. I'm a Frontend Engineer; currently working on Zuri chat app - an platfomr that enables communication between teams. 
+I'm Anthony Samson. A Frontend Engineer; currently learning backend development.
 
-I enjoy developing for Android 🤖 and IOS , and I think my favorite thing to talk about is Internet of Things. 
+I enjoy developing for Android 🤖 and IOS . 
 
 Thanks for checking out my profile.
 
